@@ -12,5 +12,6 @@ public class GitTest {
         System.out.println("hello3");
         System.out.println("hot-fix");
         System.out.println("master分支提交的代码");
+        System.out.println("hot-fix分支提交的代码");
     }
 }
