@@ -12,5 +12,7 @@ public class GitTest {
         System.out.println("hot-fix分支提交的代码 ");
         System.out.println("将代码提交到gitHub上");
         System.out.println("直接在浏览器添加的代码");
+        System.out.println("这是在gitee上添加的代码");
+
     }
 }
