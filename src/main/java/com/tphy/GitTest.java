@@ -7,7 +7,7 @@ package com.tphy;
 public class GitTest {
 
     public static void main(String[] args) {
-        System.out.println("hot-fix");
+        System.out.println("hot-fix ");
         System.out.println("master分支提交的代码");
         System.out.println("hot-fix分支提交的代码");
         System.out.println("将代码提交到gitHub上");
